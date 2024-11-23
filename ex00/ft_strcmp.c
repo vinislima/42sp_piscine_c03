@@ -6,7 +6,7 @@
 /*   By: vinda-si <vinda-si@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/29 09:34:21 by vinda-si          #+#    #+#             */
-/*   Updated: 2024/11/22 20:37:55 by vinda-si         ###   ########.fr       */
+/*   Updated: 2024/11/22 20:39:09 by vinda-si         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -34,6 +34,7 @@ int	ft_strcmp(char *s1, char *s2)
 	return (s1[count] - s2[count]);
 }
 
+// main begin here
 // #include <stdio.h>
 // #include <string.h>
 
