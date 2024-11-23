@@ -1,5 +1,3 @@
-# Untitled
-
 # [C 03](https://github.com/vinislima/42sp_piscine_c03)
 
 The functions in Module C 03 focus on replicating standard C library string operations. They include comparing strings (`ft_strcmp`, `ft_strncmp`), concatenating strings (`ft_strcat`, `ft_strncat`), finding substrings (`ft_strstr`), and managing string length during concatenation (`ft_strlcat`). These exercises aim to deepen understanding of string handling and manipulation in C.
@@ -25,8 +23,8 @@ cc -Wall -Wextra -Werror {file}
 ```
 
 ---
-
-Exercises:
+<details>
+    <summary>Exercises:</summary>
 
 - [ex00:](https://github.com/vinislima/42sp_piscine_c03/blob/main/ex00/ft_strcmp.c)
     
@@ -511,3 +509,4 @@ Exercises:
     // }
     
     ```
+    </details>
